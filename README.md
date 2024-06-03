@@ -1,1 +1,1 @@
-# Data-Analyst-Portfolio
+# MySQL-YouTube-Series
